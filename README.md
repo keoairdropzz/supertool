@@ -1,6 +1,7 @@
 {
   "expired": false,
   "message_expired": "Bản hiện tại là bản free chạy đến hết ngày 30/06/2024 nếu bạn muốn mua bản chính thức xin liên hệ admin",
+  "message_verify": "Bản hiện tại là bản pro cảm ơn bạn đã ủng hộ <3",
   "data": [
     {
       "prick": [
