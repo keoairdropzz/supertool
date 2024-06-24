@@ -23,7 +23,10 @@
     ],
     "w_coin": [
       591453810
+    ],
+    "foxton": [
+      591453810
     ]
   },
-  "hash": "d8a4e9ba0baede550f7fb8e4573832e9"
+  "hash": "fd8ca85080e0f289fa77ae04c2247781"
 }
